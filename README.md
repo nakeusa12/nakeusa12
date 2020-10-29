@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, Welcome 👋
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=nakeusa12&show_icons=true)
 
