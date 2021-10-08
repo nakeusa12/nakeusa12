@@ -1,7 +1,7 @@
 ### Hi, Welcome 👋
 
 <!-- ![github stats](https://github-readme-stats.vercel.app/api?username=nakeusa12&show_icons=true&theme=tokyo-night&count_private=true&hide_border=true) -->
-<span><img src="https://github-readme-stats.vercel.app/api?username=nakeusa12&show_icons=true&theme=tokyonight&hide_border=true" /></span>
+<span><img src="https://github-readme-stats.vercel.app/api?username=nakeusa12&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" /></span>
 
 - 🔭 I’m currently working on my personal projects, you can check <a href="https://sfullnakeusa.netlify.app/">my personal website</a>
 - ⚡ Excited to create open-source projects
