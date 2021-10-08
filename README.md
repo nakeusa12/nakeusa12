@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on my personal projects, you can check <a href="https://sfullnakeusa.space/">my personal website</a> (under construction) 
 - ⚡ Excited to create open-source projects
 - 🌱 I’m currently learning React and Backend
-- 😄 I'm natively speak Indonesian and fluently speak english <3 
+- 😄 I'm natively speaking Indonesian and a little bit of English (always learning) 
 - 💕 I'm currently fall in love with ReactJs and Laravel 
 - 📫 You can reach me at sfulnakeusa@gmail.com
 
