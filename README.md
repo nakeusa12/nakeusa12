@@ -2,7 +2,7 @@
 
 <!-- ![github stats](https://github-readme-stats.vercel.app/api?username=nakeusa12&show_icons=true&theme=tokyo-night&count_private=true&hide_border=true) -->
 
-- 🔭 I’m currently working on my personal projects, you can check <a href="https://sfullnakeusa.netlify.app/">my personal website</a>
+- 🔭 I’m currently working on my personal projects, you can check <a href="https://sfullnakeusa.space/">my personal website</a> (under construction) 
 - ⚡ Excited to create open-source projects
 - 🌱 I’m currently learning React and Backend
 - 😄 I'm natively speak Indonesian and fluently speak english <3 
