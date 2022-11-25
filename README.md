@@ -5,7 +5,6 @@
 - 🔭 I’m currently working on my personal projects, you can check <a href="[https://nakeusa.vercel.app/](https://www.sfullnakeusa.my.id/)">my personal website</a> (under construction) 
 - 🌱 I’m currently learning React and Svelte
 - 😄 I'm natively speaking Indonesian and a little bit of English (always learning) 
-- 💕 I'm currently fall in love with ReactJs and Laravel 
 - 📫 You can reach me at sfulnakeusa@gmail.com
 
 <!-- <span><img src="https://github-readme-stats.vercel.app/api?username=nakeusa12&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" /></span> -->
